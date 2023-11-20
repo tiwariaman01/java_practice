@@ -1,4 +1,4 @@
-package basicofjava.Array;
+package basicofjava.java_practice.Array;
 
 import java.util.Scanner;
 
@@ -117,10 +117,10 @@ public class targetsum {
         // System.out.println(tripletssum(arr, x));
 
 
-        // System.out.println(findUnique(arr));
+         System.out.println(findUnique(arr));
 
 
-        System.out.println(findSecondMax(arr));
+        //System.out.println(findSecondMax(arr));
 
         
 

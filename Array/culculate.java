@@ -1,4 +1,4 @@
-package basicofjava.Array;
+package java_practice.Array;
 
 
 class ArrayExample{
